@@ -8,7 +8,5 @@ pub fn fowmat(s: &str) -> String {
         .replace("th", "d")
         .replace('l', "w")
         .replace('r', "w")
-        + " uwu"
-
-        
+        + " uwu"        
 }
